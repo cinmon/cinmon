@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey!👋
 
 <!--
 **cinmon/cinmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently diving into:
+- 🔭 AI and machine learning
+- 🖥 Web development
+- 🖼️ Image processing
+- 🎨 Open to collaboration!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages 
+
+- 🎮 C, Java, Python, Kotlin
+- 🕹 HTML, CSS and JavaScript.
+
+## Projects
+
+- [Simple audio transcription to English using Whisper](https://github.com/cinmon/audio-to-text)
+- [A fun snake game in Java!](https://github.com/Moderator11/SnakeGame)
+
+## Goals
+
+- 🎯 Learn the basics of ML
+- 🎯 Participate in Kaggle competitions
+- 🎯 Learn databases with SQL
+- 🎯 Make my first Android app
+
+## Coming Soon
