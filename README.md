@@ -1,7 +1,7 @@
 ## Hey!👋
 
 <!--
-**cinmon/cinmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cinmon/cinmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 
 I am currently diving into:
 - 🔭 AI and machine learning
@@ -12,7 +12,7 @@ I am currently diving into:
 ## Languages 
 
 - 🎮 C, Java, Python, Kotlin
-- 🕹 HTML, CSS and JavaScript.
+- 🕹 HTML, CSS and JavaScript
 
 ## Projects
 
