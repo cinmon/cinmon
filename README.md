@@ -3,12 +3,13 @@
 <!--
 **cinmon/cinmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 
-I am currently diving into:
+I am currently learning:
 -  AI and machine learning
 -  Web development
 -  Android App Development
 -  Image processing
--  Open to collaboration!
+
+I'm open to collaboration!
 
 ## Languages 
 
@@ -18,11 +19,13 @@ I am currently diving into:
 
 ## Projects
 
-- [Simple audio transcription to English using Whisper](https://github.com/cinmon/audio-to-text)
-- [A fun snake game in Java!](https://github.com/Moderator11/SnakeGame)
+- [Dog breed classification](https://what-doggy-is-this.streamlit.app/)
+- [Audio transcription using OpenAI's Whisper](https://whisper-transcription.streamlit.app/)
+- [A snake game in Java!](https://github.com/Moderator11/SnakeGame)
 
 ## Current Goals
 
 - Finish my first Android app
 - Dive into Medical AI
+- Dive into sophisticated Computer Vision techniques
 
